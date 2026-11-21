@@ -1,0 +1,7 @@
+[
+  {"id": 1, "title": "Война и мир", "category": "классика", "amount": 1225, "completed": false},
+  {"id": 2, "title": "Мастер и Маргарита", "category": "классика", "amount": 480, "completed": true},
+  {"id": 3, "title": "Преступление и наказание", "category": "классика", "amount": 670, "completed": false},
+  {"id": 4, "title": "Python Crash Course", "category": "программирование", "amount": 544, "completed": true},
+  {"id": 5, "title": "Чистый код", "category": "программирование", "amount": 464, "completed": false}
+]
